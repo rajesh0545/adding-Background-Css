@@ -1,0 +1,21 @@
+body{
+    background-image: url('1900851.webp');
+}
+
+
+h1{
+    color:cyan;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+p{
+    color: blue;
+    text-shadow: springgreen;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+
+}
